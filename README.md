@@ -12,7 +12,7 @@
 
  🛠 Tech Stack 
  - 💻  Manual Testing | Jmeter | Postman | Newman | Automation Testing in web 
- - 💻  Python | Selenium | Java  Appium 
+ - 💻  Python | Selenium | Java | Appium 
  - 🌐  HTML | CSS | JavaScript 
  - 🛢  MySQL | Xampp 
  - 🔧 Intellj Idea | Visual Studio code | Eclipse | Git  
