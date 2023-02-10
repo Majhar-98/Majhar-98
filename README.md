@@ -22,8 +22,6 @@
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majhar-98)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Majhar-98&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Majhar-98)  
