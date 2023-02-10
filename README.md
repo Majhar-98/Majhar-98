@@ -1,9 +1,14 @@
 ### Hi 👋, This is Majhar Towsif
 #### A passionate Software Test Engineer
-![A passionate Software Test Engineer](https://web.facebook.com/photo/?fbid=3252245855030300&set=a.1382349735353264)
+(https://web.facebook.com/photo/?fbid=3252245855030300&set=a.1382349735353264)
 
 
-Skills: 🛠 Tech Stack 💻   Jmeter | Postman |  | Newman | Manual Testing | Automation Testing Mobile and web | Rest Assured 💻   Python | Selenium | Java  Appium | 🌐   Automation | HTML | CSS | JavaScript 🛢   MySQL | Xampp 🔧 Intellj Idea | Visual Studio code | Eclipse | Git | Jira 
+## 🛠 Tech Stack 
+- 💻   Jmeter | Postman | Newman | Manual Testing | Automation Testing Mobile and web | Rest Assured 
+- 💻   Python | Selenium | Java  Appium | 
+- 🌐   Automation | HTML | CSS | JavaScript 
+- 🛢   MySQL | Xampp 
+- 🔧 Intellj Idea | Visual Studio code | Eclipse | Git | Jira 
 
 - 🔭 I’m currently working on  on Selenium with JUnit 
 - 🌱 I’m currently learning on Selenium with JUnit 
