@@ -10,7 +10,7 @@
 
 
 ## 🛠 Tech Stack 
-- 💻   Jmeter | Postman | Newman | Manual Testing | Automation Testing Mobile and web | Rest Assured 
+- 💻   Jmeter | Postman | Newman | Manual Testing | Automation Testing Mobile and web
 - 💻   Python | Selenium | Java  Appium | 
 - 🌐   Automation | HTML | CSS | JavaScript 
 - 🛢   MySQL | Xampp 
@@ -20,7 +20,6 @@
 ## Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Majhar-98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/towsif.sumon)  
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Majhar-98&show_icons=true&count_private=true)  
 
