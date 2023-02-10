@@ -15,7 +15,7 @@
  - 💻  Manual Testing | Jmeter | Postman | Newman | Automation Testing in web 
  - 💻  Python | Selenium | Java | Appium 
  - 🌐  HTML | CSS | JavaScript 
- - 🛢  SQLYOG | Xampp 
+ - 🛢  SQLyog | Xampp 
  - 🔧 Intellj Idea | Visual Studio code | Eclipse | Git  
 
 
