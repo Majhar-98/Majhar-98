@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/320030979_1552549375263769_6117424767374076292_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFOViUkS1SW51sXLsbOhI7figE1eR_spPOKATV5H-yk8xocR7gML3igC0LAMvlHDrLSa0N1QS2h8nsZzJrKb-xo&_nc_ohc=M_MvWuOKmt8AX9j-0C2&tn=CpRo3qFIdH-Qp3gA&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AfC_G-s9ZnzJErzIJvorND-qqaD4VBMfUaCGAB6ccILNFg&oe=63EA2786)">
 ### Hi 👋, This is Majhar Towsif
 #### A passionate Software Test Engineer
 ![A passionate Software Test Engineer]
@@ -9,7 +10,7 @@
 - 📫 How to reach me: majharul.swe1846.bd@gmail.com 
 - ⚡ Fun fact: I keep myself always smiling face as well as positive attitude 
 
-![A passionate Software Test Engineer](https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/320030979_1552549375263769_6117424767374076292_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFOViUkS1SW51sXLsbOhI7figE1eR_spPOKATV5H-yk8xocR7gML3igC0LAMvlHDrLSa0N1QS2h8nsZzJrKb-xo&_nc_ohc=M_MvWuOKmt8AX9j-0C2&tn=CpRo3qFIdH-Qp3gA&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AfC_G-s9ZnzJErzIJvorND-qqaD4VBMfUaCGAB6ccILNFg&oe=63EA2786)
+![](https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/320030979_1552549375263769_6117424767374076292_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFOViUkS1SW51sXLsbOhI7figE1eR_spPOKATV5H-yk8xocR7gML3igC0LAMvlHDrLSa0N1QS2h8nsZzJrKb-xo&_nc_ohc=M_MvWuOKmt8AX9j-0C2&tn=CpRo3qFIdH-Qp3gA&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AfC_G-s9ZnzJErzIJvorND-qqaD4VBMfUaCGAB6ccILNFg&oe=63EA2786)
 
 
  🛠 Tech Stack 
