@@ -11,7 +11,7 @@
 - 📫 How to reach me: majharul.swe1846.bd@gmail.com 
 - ⚡ Fun fact: I keep myself always smiling face as well as positive attitude 
 
- 🛠 Tech Stack 
+### 🛠 Tech Stack 
  - 💻  Manual Testing | Jmeter | Postman | Newman | Automation Testing in web 
  - 💻  Python | Selenium | Java | Appium 
  - 🌐  HTML | CSS | JavaScript 
