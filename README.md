@@ -9,7 +9,7 @@
 - 💬 Ask me about SQA, SDET, Automation 
 - 👨‍💻 All of my projects are available at https://github.com/majhar-98
 - 📫 How to reach me: majharul.swe1846.bd@gmail.com 
-- ⚡ Fun fact: I keep myself always smiling face as well as positive attitude 
+- ⚡ Fun fact: I keep myself always smiling face as well as positive outlook 
 
 ### 🛠 Tech Stack 
  - 💻  Manual Testing | Jmeter | Postman | Newman | Automation Testing in web 
