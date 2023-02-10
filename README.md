@@ -1,4 +1,4 @@
-### Hi there 👋, Hi 👋, This is Majhar Towsif
+### Hi 👋, This is Majhar Towsif
 #### A passionate Software Test Engineer
 ![A passionate Software Test Engineer](https://web.facebook.com/photo/?fbid=3252245855030300&set=a.1382349735353264)
 
