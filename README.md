@@ -1,6 +1,12 @@
 ### Hi 👋, This is Majhar Towsif
 #### A passionate Software Test Engineer
-(https://web.facebook.com/photo/?fbid=3252245855030300&set=a.1382349735353264)
+
+- 🔭 I’m currently working on  on Selenium with JUnit 
+- 🌱 I’m currently learning on Selenium with JUnit 
+- 💬 Ask me about SQA, SDET, Automation 
+- 📫 How to reach me: majharul.swe1846@.bd@gmail.com 
+- ⚡ Fun fact: I keep myself always smiling face as well as positive attitude 
+
 
 
 ## 🛠 Tech Stack 
@@ -10,13 +16,8 @@
 - 🛢   MySQL | Xampp 
 - 🔧 Intellj Idea | Visual Studio code | Eclipse | Git | Jira 
 
-- 🔭 I’m currently working on  on Selenium with JUnit 
-- 🌱 I’m currently learning on Selenium with JUnit 
-- 💬 Ask me about SQA, SDET, Automation 
-- 📫 How to reach me: majharul.swe1846@.bd@gmail.com 
-- ⚡ Fun fact: I keep myself always smiling face as well as positive attitude 
 
-
+## Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Majhar-98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/towsif.sumon)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
