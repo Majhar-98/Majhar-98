@@ -18,8 +18,13 @@
  - 🛢  SQLyog | Xampp 
  - 🔧 Intellj Idea | Visual Studio code | Eclipse | Git  
 
-### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Majhar-98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/towsif.sumon/)  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/towsif76994166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="towsif76994166" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/majharul-islam-towsif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/majharul-islam-towsif" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/towsif.sumon?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/towsif.sumon?mibextid=zbwkwl" height="30" width="40" /></a>
+</p>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majhar-98)](https://github.com/anuraghazra/github-readme-stats)
 
