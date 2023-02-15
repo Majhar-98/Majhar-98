@@ -11,8 +11,8 @@
 - 📫 How to reach me: majharul.swe1846.bd@gmail.com 
 - ⚡ Fun fact: I keep myself always smiling face as well as positive outlook 
 
-![Profile views](https://gpvc.arturio.dev/Majhar-98) 
 
+![Profile views](https://gpvc.arturio.dev/Majhar-98) 
 ### 🛠 Tech Stack 
  - 💻  Manual Testing | Jmeter | Postman | Newman | Automation Testing in web 
  - 💻  Python | Selenium | Java | Appium 
