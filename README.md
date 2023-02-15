@@ -4,8 +4,8 @@
 #### A passionate Software Test Engineer
 ![Profile views](https://gpvc.arturio.dev/Majhar-98) 
 
-- 🔭 I’m currently working on Selenium with JUnit 
-- 🌱 I’m currently learning on Selenium with JUnit 
+- 🔭 I’m currently working on Selenium TestNG
+- 🌱 I’m currently learning on Selenium TestNG
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about SQA, SDET, Automation 
 - 👨‍💻 All of my projects are available at https://github.com/majhar-98
