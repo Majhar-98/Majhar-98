@@ -2,6 +2,7 @@
 
 ### Hi 👋, This is Majhar Towsif
 #### A passionate Software Test Engineer
+![Profile views](https://gpvc.arturio.dev/Majhar-98) 
 
 - 🔭 I’m currently working on Selenium with JUnit 
 - 🌱 I’m currently learning on Selenium with JUnit 
@@ -36,4 +37,4 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Majhar-98)  
 
-![Profile views](https://gpvc.arturio.dev/Majhar-98)  
+
