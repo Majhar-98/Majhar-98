@@ -11,7 +11,6 @@
 - 📫 How to reach me: majharul.swe1846.bd@gmail.com 
 - ⚡ Fun fact: I keep myself always smiling face as well as positive outlook 
 
-
 ![Profile views](https://gpvc.arturio.dev/Majhar-98) 
 ### 🛠 Tech Stack 
  - 💻  Manual Testing | Jmeter | Postman | Newman | Automation Testing in web 
@@ -30,8 +29,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majhar-98)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Majhar-98&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Majhar-98)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Majhar-98)  
 
