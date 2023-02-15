@@ -1,5 +1,5 @@
 ![Git_Bannar](https://user-images.githubusercontent.com/123467715/218130794-d4eed332-8b50-45a1-8975-7f610914c3d1.jpg)
-![Profile views](https://gpvc.arturio.dev/Majhar-98) 
+
 ### Hi 👋, This is Majhar Towsif
 #### A passionate Software Test Engineer
 
@@ -11,13 +11,14 @@
 - 📫 How to reach me: majharul.swe1846.bd@gmail.com 
 - ⚡ Fun fact: I keep myself always smiling face as well as positive outlook 
 
+![Profile views](https://gpvc.arturio.dev/Majhar-98) 
+
 ### 🛠 Tech Stack 
  - 💻  Manual Testing | Jmeter | Postman | Newman | Automation Testing in web 
  - 💻  Python | Selenium | Java | Appium 
  - 🌐  HTML | CSS | JavaScript 
- - 🛢  SQLyog | Xampp 
+ - 🛢  SQLyog | MYSQL | Xampp 
  - 🔧 Intellj Idea | Visual Studio code | Eclipse | Git  
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
