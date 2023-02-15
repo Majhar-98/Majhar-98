@@ -1,7 +1,11 @@
 ![Git_Bannar](https://user-images.githubusercontent.com/123467715/218130794-d4eed332-8b50-45a1-8975-7f610914c3d1.jpg)
 
-### Hi 👋, This is Majhar Towsif
-#### A passionate Software Test Engineer
+### Hi 👋, This is Majhar Towsif 
+<html>
+<body>
+<h3 style="color: blue;">A passionate Software Test Engineer</h3>
+</body>
+</html>
 
 - 🔭 I’m currently working on Selenium TestNG
 - 🌱 I’m currently learning on Selenium TestNG
