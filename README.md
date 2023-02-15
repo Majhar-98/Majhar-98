@@ -1,8 +1,7 @@
 ![Git_Bannar](https://user-images.githubusercontent.com/123467715/218130794-d4eed332-8b50-45a1-8975-7f610914c3d1.jpg)
-
+![Profile views](https://gpvc.arturio.dev/Majhar-98) 
 ### Hi 👋, This is Majhar Towsif
 #### A passionate Software Test Engineer
-![Profile views](https://gpvc.arturio.dev/Majhar-98) 
 
 - 🔭 I’m currently working on Selenium TestNG
 - 🌱 I’m currently learning on Selenium TestNG
