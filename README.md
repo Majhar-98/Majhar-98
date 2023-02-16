@@ -21,7 +21,7 @@
  - 💻  Python | Selenium | Java | Appium 
  - 🌐  HTML | CSS | JavaScript 
  - 🛢  SQLyog | MYSQL | Xampp 
- - 🔧 Intellj Idea | Visual Studio code | Eclipse | Git  
+ - 🔧 Intellij Idea | Visual Studio code | Eclipse | Git  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
