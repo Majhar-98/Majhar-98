@@ -9,8 +9,8 @@
 </html>
  </div>
 
-- 🔭 I’m currently working on Cucumber with Automation
-- 🌱 I’m currently learning on Cucumber with Automation
+- 🔭 I’m currently working on Cypress
+- 🌱 I’m currently learning on Cypress
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about SQA, SDET, Automation 
 - 👨‍💻 All of my projects are available at https://github.com/majhar-98
