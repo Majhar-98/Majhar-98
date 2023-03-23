@@ -19,11 +19,11 @@
 
 ![Profile views](https://gpvc.arturio.dev/Majhar-98) 
 ### 🛠 Tech Stack 
- - 💻  Manual Testing | Jmeter | Postman | Newman | Automation Testing in web 
- - 💻  Python | Selenium | Java | Appium 
+ - 💻  Manual Testing | Jmeter | Postman | Newman | Automation Testing in web | Mobile and web | Rest Assured
+ - 💻  Python | Selenium | Java | Appium | Cypress
  - 🌐  HTML | CSS | JavaScript 
  - 🛢  SQLyog | MYSQL | Xampp 
- - 🔧 Intellij Idea | Visual Studio code | Eclipse | Git  
+ - 🔧 Android Studio | Intellj Idea | Visual Studio code | Eclipse | Git 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
