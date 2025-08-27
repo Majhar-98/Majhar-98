@@ -51,61 +51,9 @@
 
 
 
-### Hi 👋, I’m **Majhar Towsif**  
-#### **A Passionate Software Test Engineer**
-
-- 🔭 **Currently working on:** Cypress for Web Automation  
-- 🌱 **Currently learning:** Advanced Cypress Automation Techniques  
-- 👯 **Looking to collaborate on:** GitHub projects  
-- 💬 **Ask me about:** SQA, SDET, Automation Testing  
-- 👨‍💻 **My projects:** [GitHub Portfolio](https://github.com/majhar-98)  
-- 📫 **Reach me at:** majharul.bd1846@gmail.com  
-- ⚡ **Fun fact:** I always keep a smiling face and maintain a positive outlook  
-
----
-
-### 🛠 **Tech Stack**  
-
-**Testing Tools & Frameworks:**  
-- Manual Testing | JMeter | Postman | Newman  
-- Automation Testing (Web & Mobile): Selenium, Cypress, Appium, Rest Assured  
-
-**Programming & Scripting:**  
-- Python | Java | JavaScript | HTML | CSS  
-
-**Databases:**  
-- SQLyog | MySQL | XAMPP  
-
-**Development Tools:**  
-- Android Studio | IntelliJ IDEA | VS Code | Eclipse | Git  
-
----
-
-### **Connect with Me**  
-
-<p align="left">
-  <a href="https://twitter.com/towsif76994166" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter: towsif76994166" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/majharul-islam-towsif" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: majharul-islam-towsif" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/towsif.sumon?mibextid=zbwkwl" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook: towsif.sumon" height="30" width="40" />
-  </a>
-</p>  
-
----
-
 ### **GitHub Analytics**  
 
-![Profile Views](https://gpvc.arturio.dev/Majhar-98)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Majhar-98)](https://github.com/anuraghazra/github-readme-stats)  
+![Profile Views](https://komarev.com/ghpvc/?username=Majhar-98&label=Profile%20views&color=0e75b6&style=flat)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Majhar-98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Majhar-98&show_icons=true&count_private=true)  
-![GitHub Metrics](https://metrics.lecoq.io/Majhar-98)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Majhar-98)  
-
----
-
-
-
