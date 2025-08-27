@@ -27,10 +27,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/towsif76994166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="towsif76994166" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/majharul-islam-towsif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/majharul-islam-towsif" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/towsif.sumon?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/towsif.sumon?mibextid=zbwkwl" height="30" width="40" /></a>
-</p>  
+  <a href="https://twitter.com/towsif76994166" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter: towsif76994166" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/majharul-islam-towsif" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: majharul-islam-towsif" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/towsif.sumon?mibextid=zbwkwl" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook: towsif.sumon" height="30" width="40" />
+  </a>
+</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majhar-98)](https://github.com/anuraghazra/github-readme-stats)
 
