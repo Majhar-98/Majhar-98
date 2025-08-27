@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about SQA, SDET, Automation 
 - 👨‍💻 All of my projects are available at https://github.com/majhar-98
-- 💼  [LinkedIn Profile](https://www.linkedin.com/in/majharul-islam-towsif) 
+- 💼 Connect with me on [LinkedIn Profile](https://www.linkedin.com/in/majharul-islam-towsif) 
 - 📫 How to reach me: majharul.bd1846@gmail.com 
 - ⚡ Fun fact: I keep myself always smiling face as well as positive outlook 
 
