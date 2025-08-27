@@ -22,20 +22,8 @@
  - 💻  Python | Selenium | Java | Appium | Cypress
  - 🌐  HTML | CSS | JavaScript 
  - 🛢  SQLyog | MYSQL | Xampp 
- - 🔧 Android Studio | Intellj Idea | Visual Studio code | Eclipse | Git 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majhar-98)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Majhar-98&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Majhar-98)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Majhar-98)  
-
-
-
-
-
+ - 🔧 Android Studio | Intellj Idea | Visual Studio code | Eclipse | Git
+   
 ### **GitHub Analytics**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Majhar-98&label=Profile%20views&color=0e75b6&style=flat)  
